@@ -1,0 +1,4 @@
+_pgbackup/
+_pgbackup/*
+pinegrow.json
+tailwind.min.css
